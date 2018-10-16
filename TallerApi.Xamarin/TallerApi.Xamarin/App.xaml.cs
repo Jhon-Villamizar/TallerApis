@@ -28,5 +28,6 @@ namespace TallerApi.Xamarin
 		{
 			// Handle when your app resumes
 		}
+             
 	}
 }
